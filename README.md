@@ -18,3 +18,10 @@ As an example of crawling the ibm site, we first create a site object with the d
     s.crawl()
 
 When done, the resuls will be written to the path specified in the www_path param which is './../output/www' in this case.
+
+##Installation
+Clone repository.
+
+##Dependencies
+* lxml (https://pypi.python.org/pypi/lxml)
+* html5lib (https://pypi.python.org/pypi/html5lib)
